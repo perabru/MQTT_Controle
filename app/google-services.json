@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "974936284084",
+    "firebase_url": "https://mqttcontrole.firebaseio.com",
+    "project_id": "mqttcontrole",
+    "storage_bucket": "mqttcontrole.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974936284084:android:13db5133559cf133a1b0e1",
+        "android_client_info": {
+          "package_name": "com.example.mqtt_controle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974936284084-h5njhd9nkigcqan4j54pr452n8nf41ml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mqtt_controle",
+            "certificate_hash": "6d3032270c6c0ef9f4bda6fd809e1e645f3a680b"
+          }
+        },
+        {
+          "client_id": "974936284084-vlqnrfn8i4035ct0v3g78h5r5f642o10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_2x9qNXqsuvKyHsYynyt3pBxoA1_-bSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974936284084-vlqnrfn8i4035ct0v3g78h5r5f642o10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
